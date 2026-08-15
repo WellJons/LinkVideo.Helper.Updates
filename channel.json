@@ -1,0 +1,7 @@
+{
+  "product": "LinkVideo.Helper",
+  "channel": "stable",
+  "manifest": "update-manifest.json",
+  "source_repository_visibility": "private",
+  "note": "update-manifest.json is published automatically with the first GitHub release"
+}
