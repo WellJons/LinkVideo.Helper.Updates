@@ -1,0 +1,6 @@
+# This repository is an automated public update channel.
+# Release binaries are stored as GitHub Release assets, not committed to main.
+*.exe
+*.msi
+*.zip
+*.tmp
