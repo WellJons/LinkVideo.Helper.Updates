@@ -1,8 +1,8 @@
 {
-  "version": "3.0.11",
+  "version": "3.0.10",
   "download_url": "https://github.com/WellJons/LinkVideo.Helper.Updates/releases/download/v3.0.11/LinkVideo.Helper_Setup.exe",
   "sha256": "fb0d4094bee7ed409c7d6ce05296b0e3c44133db4a83e39b2707b71678bba6dc",
-  "notes": "Доступна версия LinkVideo.Helper 3.0.11.",
+  "notes": "Обновление 3.0.11 временно приостановлено: исправляется безопасный путь обновления уже установленной программы.",
   "mandatory": false,
   "patches": {}
 }
