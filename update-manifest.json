@@ -1,13 +1,13 @@
 {
-  "version": "3.0.11",
-  "download_url": "https://github.com/WellJons/LinkVideo.Helper.Updates/releases/download/v3.0.11/LinkVideo.Helper_Setup.exe",
-  "sha256": "fb0d4094bee7ed409c7d6ce05296b0e3c44133db4a83e39b2707b71678bba6dc",
-  "notes": "Доступна версия LinkVideo.Helper 3.0.11. Для установленной 3.0.10 обновление применяется встроенным updater без мастера установки.",
+  "version": "3.0.12",
+  "download_url": "https://github.com/WellJons/LinkVideo.Helper.Updates/releases/download/v3.0.12/LinkVideo.Helper_Setup.exe",
+  "sha256": "0da8bdc060f6ac422d8c4cc5a72bd9489e5ba6b4b3e546f50cdcc62aa2d5eee9",
+  "notes": "Доступна версия LinkVideo.Helper 3.0.12. Исправлено скачивание обновлений при ошибках цепочки TLS; для 3.0.11 используется встроенный patch без мастера установки.",
   "mandatory": false,
   "patches": {
-    "3.0.10": {
-      "download_url": "https://github.com/WellJons/LinkVideo.Helper.Updates/releases/download/v3.0.11/LinkVideo.Helper_Patch_3.0.10_to_3.0.11.exe",
-      "sha256": "4a058a035ae179785c307240b3d0e8ba95b133450b21ffc72cfbaa45bb63ffce"
+    "3.0.11": {
+      "download_url": "https://github.com/WellJons/LinkVideo.Helper.Updates/releases/download/v3.0.12/LinkVideo.Helper_Patch_3.0.11_to_3.0.12.exe",
+      "sha256": "099a2137ebf307bf76cbacb467702efcc2718e004c2945130b08a6ce485f6a00"
     }
   }
 }
