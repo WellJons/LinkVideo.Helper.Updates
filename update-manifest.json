@@ -1,8 +1,8 @@
 {
   "version": "3.0.18",
-  "download_url": "https://github.com/WellJons/LinkVideo.Helper.Updates/releases/download/v3.0.18/LinkVideo.Helper_Setup.exe",
-  "sha256": "05eb6066492cd8201c80152b75024639682ce4873879a704aad30704f8ff0985",
-  "notes": "Доступна версия LinkVideo.Helper 3.0.18.",
+  "download_url": "https://github.com/WellJons/LinkVideo.Helper.Updates/releases/download/v3.0.18-installerfix1/LinkVideo.Helper_Setup.exe",
+  "sha256": "0ec604c138f5d4f38542a6d5827274a64ac692477af8dd8e6bdb5d65cbd47668",
+  "notes": "LinkVideo.Helper 3.0.18: исправлена установка обновления поверх работающей программы.",
   "mandatory": false,
   "patches": {}
 }
